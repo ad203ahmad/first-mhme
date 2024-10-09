@@ -2,20 +2,20 @@
 <resources>
 
     <string-array name="stones">
-        <item>Chess Piece - King</item>
-        <item>Chess Piece - Queen</item>
-        <item>Chess Piece - Bishop</item>
-        <item>Chess Piece - Knight</item>
-        <item>Chess Piece - Rook</item>
-        <item>Chess Piece - Pawn</item>
+        <item>Chess Piece - volkswagen </item>
+        <item>Chess Piece - ford </item>
+        <item>Chess Piece - bmw</item>
+        <item>Chess Piece - hyundai </item>
+        <item>Chess Piece - pejo  </item>
+        <item>Chess Piece - subaru </item>
     </string-array>
 
     <string-array name="details">
-        <item>The king moves exactly one vacant square in any direction: forwards, backwards, left, right, or diagonally. It can also castle in conjunction with a rook.</item>
-        <item>The queen moves any number of vacant squares in any direction: forwards, backwards, left, right, or diagonally, in a straight line.</item>
-        <item>The bishop moves any number of vacant squares diagonally in a straight line. Consequently, a bishop stays on squares of the same color throughout a game. The two bishops each player starts with move on squares of opposite colors.</item>
-        <item>The knight moves on an extended diagonal from one corner of any 2×3 rectangle of squares to the furthest opposite corner. Consequently, the knight alternates its square color each time it moves. The knight is the only piece that jumps over any intervening piece(s) when moving (castling being the only special instance in which pieces jump over one another).</item>
-        <item>The rook moves any number of vacant squares forwards, backwards, left, or right in a straight line. It also takes part, along with the king, in a special move called castling.</item>
-        <item>The pawn moves forward exactly one space, or optionally, two spaces when on its starting square, toward the opponent\'s side of the board. When there is an enemy piece one square diagonally ahead of the pawn, either left or right, then the pawn may capture that piece. A pawn can perform a special type of capture of an enemy pawn called en passant. If the pawn reaches a square on the back rank of the opponent, it promotes to the player\'s choice of a queen, rook, bishop, or knight</item>
+        <item>With a team of more than 1150 employees in Wolfsburg and Bochum, we work in the fields of connectivity and automotive software. Under the roof of CARIAD, the Volkswagen Group unites experienced companies that work on future technology such as integrating vehicles with hard- and software for the Group’s various brands..</item>
+        <item>American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States. It was founded by Henry Ford and incorporated on June 16, 1903. The company sells automobiles and commercial vehicles under the Ford brand, and luxury cars under its Lincoln brand. The company is listed on the New York Stock Exchange and is controlled by the Ford family. They have minority ownership but a plurality of the voting power..</item>
+        <item>is a German multinational manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany. The company was founded in 1916 as a manufacturer of aircraft engines, which it produced from 1917 to 1918 and again from 1933 to 1945 creating engines for aircraft that were used in the Second World War.</item>
+        <item>is a South Korean multinational automotive manufacturer headquartered in Seoul, South Korea, which was founded in 1967. Currently, the company owns 33.88 percent of Kia Corporation,[5] and fully owns two marques including its luxury cars subsidiary, Genesis, and their electric vehicle brand Ioniq.[6][7][8] The three brands altogether make up the Hyundai Motor Group.</item>
+        <item>The family business that preceded the current Peugeot companies was established in 1810,[6] making it one of the oldest car companies in the world.[7] On 20 November 1858, Émile Peugeot applied for the lion trademark. Armand Peugeot (1849–1915) .</item>
+        <item>The family business that preceded the current Peugeot companies was established in 1810,[6] making it one of the oldest car companies in the world.[7] On 20 November 1858, Émile Peugeot applied for the lion trademark. Armand Peugeot (1849–1915) built the </item>
     </string-array>
 </resources>
